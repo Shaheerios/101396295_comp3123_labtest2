@@ -13,4 +13,4 @@ This is a simple weather app built with React. It allows users to check the curr
 - **Axios**: For making HTTP requests to the OpenWeatherMap API.
 
 ## Screenshots of the application are in a single docx file on below github URL
-  ![Weather data for Toronto, Milton and Washigton](https://github.com/Shaheerios/101396295_comp3123_labtest2/blob/master/101396295_comp3123_labtest2_screenshots.docx)
+  ![Weather data for Toronto, Milton and Washigton](https://github.com/Shaheerios/101396295_comp3123_labtest2/blob/main/101396295_comp3123_labtest2_screenshots.docx)
